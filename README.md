@@ -17,4 +17,4 @@
 Transitioned from a solid foundation in Cyber Security (Arena Web Security) to the frontier of AI-Native Software Building. I use my security background to ensure every line of AI-generated code is robust and secure.
 
 ---
-📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/mustadafinshimanto/) | [GitHub](https://github.com/mustadafinshimanto)
+📫 **Connect with me**: [LinkedIn](www.linkedin.com/in/mustad-afin-shimanto) | [GitHub](https://github.com/mustadafinshimanto)

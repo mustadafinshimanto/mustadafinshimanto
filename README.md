@@ -22,5 +22,5 @@ Transitioned from a solid foundation in Cyber Security (Arena Web Security) to t
 
 
 ---
-📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/mustad-afin-shimanto/) | [GitHub](https://github.com/mustadafinshimanto) | [website]([https://github.com/mustadafinshimanto](https://mustadafinshimanto.github.io)) 
+📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/mustad-afin-shimanto/) | [GitHub](https://github.com/mustadafinshimanto) | [website](https://mustadafinshimanto.github.io)
 

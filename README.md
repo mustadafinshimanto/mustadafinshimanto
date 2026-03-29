@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🚀 Mustad Afin Shimanto
+### AI-Native Software Builder | Vibe Coding Expert | Cyber Security Specialist
 
-<!--
-**mustadafinshimanto/mustadafinshimanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building at the speed of thought. Leveraging agentic workflows to turn business concepts into production-ready software.
 
-Here are some ideas to get you started:
+## 🛠 Tech & Tools
+- **AI-Native Stack**: Google Antigravity, Gemini 3, Cursor, Claude Code
+- **Coding**: Python (Django), Dart (Flutter), SQL
+- **Specialties**: Vibe-Driven Development, Agentic Workflows, Prompt Engineering
+- **Security**: Web Vulnerability Assessment, Technical Reporting, AI-Code Auditing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Key Projects
+- **School Management System**: Full-stack Django/SQL system built in 1 month via Vibe Coding.
+- **Mess Manager**: Flutter mobile app for shared living expense tracking.
+
+## 🛡 Security Background
+Transitioned from a solid foundation in Cyber Security (Arena Web Security) to the frontier of AI-Native Software Building. I use my security background to ensure every line of AI-generated code is robust and secure.
+
+---
+📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/mustadafinshimanto/) | [GitHub](https://github.com/mustadafinshimanto)

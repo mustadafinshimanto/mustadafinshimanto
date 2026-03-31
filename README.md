@@ -7,7 +7,7 @@
 
 ## 🛠 Tech & Tools
 - **AI-Native Stack**: Google Antigravity, Gemini 3, Cursor, Claude Code
-- **Coding**: Python (Django), Dart (Flutter), SQL
+- **Coding**: Python (Django), Dart (Flutter), SQL(can work on any framework and language)
 - **Specialties**: Vibe-Driven Development, Agentic Workflows, Prompt Engineering
 - **Security**: Web Vulnerability Assessment, Technical Reporting, AI-Code Auditing
 

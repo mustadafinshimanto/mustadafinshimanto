@@ -13,7 +13,7 @@
 
 
 ## 🌟 Key Projects
-- **School Management System**: Full-stack Django/SQL system built in 1 month via Vibe Coding.
+- **School Management System**: Full-stack Django/SQL system built in 1 month via AI native workflow.
 - **Mess Manager**: Flutter mobile app for shared living expense tracking.
 
 

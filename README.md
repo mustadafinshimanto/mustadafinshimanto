@@ -1,5 +1,5 @@
 # 🚀 Mustad Afin Shimanto
-### AI-Native Software Builder | Vibe Coding Expert | Cyber Security Specialist
+### AI-Native Software Builder | Cyber Security Specialist
 
 
 > Building at the speed of thought. Leveraging agentic workflows to turn business concepts into production-ready software.can work on any framwork.
